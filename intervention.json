@@ -1,0 +1,133 @@
+{
+    "has_intervention": [
+        "yes",
+        "Yes, the paper discusses a narrative-based language intervention (NBLI-WF) aimed at improving naming accuracy, word-finding characteristics, and language productivity in individuals with speech or language deficits"
+    ],
+    "interventions": [
+        {
+            "Short_Name": "Phonological intervention approach",
+            "Target_Disorder": [
+                "Naming accuracy, word-finding characteristics, language productivity",
+                "The interventions proposed in the paper primarily target improving naming accuracy, word-finding characteristics, and language productivity, as indicated by the focus on measuring outcomes related to these aspects and the hypotheses and research questions outlined in the text"
+            ],
+            "Intervention_Procedure": "The intervention study proposed in the paper focuses on improving naming accuracy through a phonological intervention approach. The therapy process involves targeting treated vocabulary items to enhance picture naming accuracy. The intervention aims to provide strategies that children can utilize and generalize to untrained words, with the goal of achieving improvement in naming accuracy within a clinically feasible period of time. The study emphasizes the importance of ruling out improvement due to a rehearsal effect and highlights the significance of changes in word-finding characteristics as a result of the intervention.",
+            "Frequency": "The treatment frequency of the phonological intervention approach in this study involved exposure to treated items on four occasions: pre-therapy, mid-therapy, post-therapy, and at maintenance.",
+            "Dosage": "The treatment dosage of the intervention in this study involved exposure to treated items on four occasions: pre-therapy, mid-therapy, post-therapy, and at maintenance.",
+            "Duration": "The intervention duration in this study was designed to be clinically feasible.",
+            "Location": "None",
+            "Efficacy": "The intervention study in this paper showed effectiveness in improving picture naming accuracy for treated vocabulary items. The results indicated a significant difference between control and treated expressive words, with treated items demonstrating higher accuracy rates. Additionally, the study revealed a steeper learning curve for treated items compared to control items over time. While the clinical significance of the results may be debatable due to the limited number of words tested, the intervention method showcased potential for improving picture naming accuracy in the context of the study.",
+            "Therapy_Goal": "The therapy goals of this intervention include improving picture naming accuracy for treated vocabulary items, reducing word-finding characteristics repetitions, increasing word reformulations, and demonstrating the potential effectiveness of the narrative-based intervention program on a child's word-finding difficulties.",
+            "Detailed_Description": "The intervention study proposed in the paper focuses on improving naming accuracy through a phonological intervention approach. The study aims to enhance picture naming accuracy by targeting specific vocabulary items. The intervention involves providing strategies to children with word-finding difficulties to improve their ability to name pictures accurately. The study emphasizes the importance of interventions that result in improvement specifically on treated vocabulary items, indicating the effectiveness of the intervention. Additionally, the intervention aims to address word-finding characteristics such as repetitions and word reformulations by implementing strategies to reduce repetitions and increase accurate word formulations during picture naming tasks. Overall, the intervention study seeks to enhance naming accuracy by targeting phonological aspects and improving word-finding characteristics in children with word-finding difficulties.",
+            "Involved_Therapeutic_Techniques": [
+                "Phonological intervention approach",
+                "Semantic/elaboration intervention approach",
+                "Teaching word-finding strategies",
+                "Improving picture-naming accuracy",
+                "Providing strategies for generalization to untrained words"
+            ],
+            "Age": "None",
+            "Language": "English",
+            "Case_Study_Description": "None",
+            "Example Activities": [
+                "Phonological exercises focusing on sound production and discrimination",
+                "Semantic/elaboration tasks to enhance word associations and connections",
+                "Confrontation naming tasks to improve picture naming accuracy",
+                "Teaching word-finding strategies for generalization to untrained words"
+            ],
+            "Setting": [
+                [
+                    "schools"
+                ],
+                "Schools are a common setting where interventions for language-related issues, such as naming accuracy and word-finding characteristics, can be conducted Children spend a significant amount of time in schools, making it a suitable environment for implementing and monitoring interventions aimed at improving language skills"
+            ],
+            "Theme": [
+                [
+                    "speech awareness"
+                ],
+                "The intervention study in the paper focuses on improving picture naming accuracy through phonological intervention approaches, which involve recognizing and understanding speech sounds This aligns with the theme of 'speech awareness' that includes phonological awareness and sound identification"
+            ]
+        },
+        {
+            "Short_Name": "Semantic/elaboration intervention approach",
+            "Target_Disorder": [
+                "Naming accuracy, word-finding characteristics, language productivity",
+                "The interventions proposed in the paper primarily target improving naming accuracy, word-finding characteristics, and language productivity, as indicated by the focus on measuring outcomes related to these aspects and the hypotheses and research questions outlined in the text"
+            ],
+            "Intervention_Procedure": "The intervention study proposed in the paper focuses on improving naming accuracy, word-finding characteristics, and language productivity through a semantic/elaboration intervention approach. The therapy process of this intervention involves targeting specific vocabulary items for treatment. Improvement in naming accuracy is observed for the treated vocabulary items, indicating the effectiveness of the intervention. The intervention aims to provide children with strategies that they can apply and generalize to untrained words. The study emphasizes achieving improvement on treated vocabulary within a clinically feasible period of time. Control items are also included in the study to rule out improvement solely due to a rehearsal effect.",
+            "Frequency": "The treatment frequency of the semantic/elaboration intervention approach in this study involved exposure to treated items on four occasions: pre-therapy, mid-therapy, post-therapy, and at maintenance.",
+            "Dosage": "The treatment dosage of the intervention in this study involved exposure to treated items on four occasions: pre-therapy, mid-therapy, post-therapy, and at maintenance.",
+            "Duration": "The intervention duration in this study was not explicitly mentioned in the provided context information.",
+            "Location": "None",
+            "Efficacy": "The intervention study in this paper focused on improving picture naming accuracy through a narrative-based intervention program. The results indicated a significant improvement in the accuracy of picture naming for treated vocabulary items. The study showed a steeper learning curve for treated items compared to control items, despite a drop in accuracy at the maintenance phase. While the clinical significance of the results may be questioned due to the limited number of words tested, the study demonstrated the potential effectiveness of the semantic/elaboration intervention approach in enhancing picture naming accuracy.",
+            "Therapy_Goal": "The therapy goals of the intervention study proposed in the paper include improving picture naming accuracy for treated vocabulary items, enhancing word-finding characteristics in narrative, and analyzing language productivity. The intervention aims to demonstrate the effectiveness of the semantic/elaboration intervention approach in improving picture-naming accuracy and potentially enhancing word-finding abilities in children with word-finding difficulties.",
+            "Detailed_Description": "The intervention study proposed in the paper focuses on improving naming accuracy, word-finding characteristics, and language productivity through a narrative-based intervention program. Specifically, the intervention approach involves utilizing semantic/elaboration strategies to enhance picture naming accuracy for treated vocabulary items. The study aims to demonstrate the effectiveness of this intervention by measuring improvements in naming accuracy and analyzing word-finding characteristics in narrative tasks. The results indicate a significant difference between control and treated expressive words, with treated items showing improved accuracy over time. While the intervention did not show a clear impact on language productivity, changes were observed in the pattern of word-finding characteristics, particularly in terms of repetitions and word reformulations. Overall, the intervention study highlights the potential of semantic/elaboration strategies in improving picture naming accuracy and word-finding characteristics in children with word-finding difficulties.",
+            "Involved_Therapeutic_Techniques": [
+                "Phonological intervention",
+                "Semantic/elaboration intervention",
+                "Teaching word-finding strategies",
+                "Generalization to untrained words"
+            ],
+            "Age": "None",
+            "Language": "The speaking language of the participants in the study of this intervention is not described in the paper; therefore, English is the default language assumed for the participants.",
+            "Case_Study_Description": "None",
+            "Example Activities": [
+                "Semantic categorization tasks",
+                "Elaboration exercises on target words",
+                "Word association activities",
+                "Semantic feature analysis tasks"
+            ],
+            "Setting": [
+                [
+                    "schools"
+                ],
+                "The intervention study for naming accuracy, word-finding characteristics, and language productivity proposed in the paper would be most fitting to be conducted in schools, as it involves improving picture naming accuracy and language skills in children Schools provide a structured environment where children can receive targeted interventions and support for language-related difficulties"
+            ],
+            "Theme": [
+                [
+                    "expressive language"
+                ],
+                "The intervention approach in the paper focuses on improving picture naming accuracy for treated vocabulary items, which aligns with the theme of 'expressive language' that aims to improve the children's expressive language, in quantity, vocabulary, or structure"
+            ]
+        },
+        {
+            "Short_Name": "Intervention providing strategies for word-finding difficulties",
+            "Target_Disorder": [
+                "Naming accuracy, word-finding characteristics, language productivity",
+                "The interventions proposed in the paper primarily target improving naming accuracy, word-finding characteristics, and language productivity, as indicated by the focus on measuring outcomes related to these aspects and the hypotheses and research questions outlined in the text"
+            ],
+            "Intervention_Procedure": "The intervention study in the paper focused on improving naming accuracy, word-finding characteristics, and language productivity through a narrative-based intervention program. The therapy process involved measuring outcomes through picture naming, language productivity in narrative, and analyzing word-finding characteristics in narrative. The intervention aimed to enhance the accuracy of picture naming for treated vocabulary items by implementing strategies to address word-finding difficulties. The study showed a significant improvement in naming accuracy for treated expressive words compared to control items, indicating the effectiveness of the intervention. The therapy process emphasized the importance of providing children with strategies that they can apply and generalize to untrained words, with the goal of achieving improvement within a clinically feasible period of time.",
+            "Frequency": "The intervention in this study involved four occasions: pre-therapy, mid-therapy, post-therapy, and at maintenance.",
+            "Dosage": "The treatment dosage of the intervention in this study involved exposure to treated items on four occasions: pre-therapy, mid-therapy, post-therapy, and at maintenance.",
+            "Duration": "The intervention duration in this study for improving naming accuracy, word-finding characteristics, and language productivity was not explicitly mentioned in the provided context information.",
+            "Location": "None",
+            "Efficacy": "The intervention study described in the paper showed improvement in picture-naming accuracy for treated vocabulary items. The improvement was specific to the treated items, indicating effectiveness of the intervention. The study aimed to provide strategies for word-finding difficulties, and the results suggest that improvement on treated vocabulary items was achieved within a clinically feasible period of time. The intervention did not show significant changes in naming accuracy for control items, supporting the effectiveness of the strategies provided for word-finding difficulties.",
+            "Therapy_Goal": "The therapy goals of this intervention include improving the accuracy of picture naming for treated vocabulary items, reducing word-finding characteristics such as repetitions and increasing word reformulations, and analyzing the impact of the intervention on language productivity in narrative samples.",
+            "Detailed_Description": "The intervention study proposed in the paper focuses on improving naming accuracy and word-finding characteristics through targeted strategies. The intervention aims to enhance picture-naming accuracy by utilizing approaches that have shown effectiveness in previous investigations. Specifically, the intervention is designed to improve naming accuracy for treated vocabulary items by providing children with strategies that can be applied and generalized to untrained words. The study emphasizes the importance of achieving improvement on treated vocabulary within a clinically feasible period of time to be considered effective. Additionally, the intervention seeks to rule out improvement solely due to a rehearsal effect by comparing naming accuracy changes between treated and control items over multiple assessment points. The intervention approach aims to address word-finding difficulties by implementing strategies that have demonstrated success in previous studies while focusing on enhancing naming accuracy and word-finding characteristics in a structured and effective manner.",
+            "Involved_Therapeutic_Techniques": [
+                "Phonological intervention",
+                "Semantic/elaboration intervention",
+                "Teaching word-finding strategies for generalization to untrained words"
+            ],
+            "Age": "None",
+            "Language": "English",
+            "Case_Study_Description": "The paper describes a case study that measured the effectiveness of a narrative-based intervention for word-finding difficulties. The participant underwent testing on picture naming and spoken word to picture matching for control and treatment words at pre-, mid-, and post-therapy, as well as an 8-month maintenance point. The narrative samples were analyzed for word-finding characteristics and language production. The narrative-based language intervention for word-finding difficulties (NBLI-WF) consisted of eight sessions over 3 weeks. The results showed significant improvement in naming accuracy for treatment words, changes in word-finding characteristics in narrative, but no reduction in frequency of these characteristics.",
+            "Example Activities": [
+                "Phonological intervention activities for confrontation naming tasks",
+                "Semantic/elaboration intervention activities for confrontation naming tasks",
+                "Teaching word-finding strategies for generalization to untrained words"
+            ],
+            "Setting": [
+                [
+                    "schools"
+                ],
+                "The intervention study focused on improving naming accuracy, word-finding characteristics, and language productivity in children Schools would be the most fitting location setting as it is where children spend a significant amount of time and where language and communication skills are actively utilized and developed"
+            ],
+            "Theme": [
+                [
+                    "generalisation"
+                ],
+                "The intervention study in the paper aimed to improve word-finding difficulties by providing strategies that could be generalized to untrained words This aligns with the theme of 'generalisation' which focuses on making therapy gains transferable to other situations and environments"
+            ]
+        }
+    ]
+}

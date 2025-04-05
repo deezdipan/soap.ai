@@ -1,55 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Patient Intervention System</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Patient Intervention System</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
-    <div class="header">
-        <h1>Patient Intervention System</h1>
+  <div class="header">
+    <h1>Patient Intervention System</h1>
+  </div>
+
+  <div class="box">
+    <label for="patient">Patient:</label>
+    <select id="patient">
+      <option value="patient1">Patient 1</option>
+      <option value="patient2">Patient 2</option>
+    </select>
+    <br />
+    <label for="date">Date:</label>
+    <input type="date" id="date" />
+    <br />
+    <button onclick="showProfile()">Show the Profile</button>
+  </div>
+
+  <div class="box" id="profileBox">
+    <p id="profileInfo"><strong><u>Profile:</u></strong><br /> Age:<br /> Gender:<br /> Disorder:<br /> Weakness:<br /> Strength:<br /> Target:</p>
+    <button onclick="recommendIntervention()">Recommend Intervention</button>
+  </div>
+
+  <div class="box">
+    <p><u><strong>Intervention Info</strong></u></p>
+    <p>List of references:</p>
+    <ul>
+      <li>
+        <a href="Narrative-based intervention for word-finding difficulties.pdf" target="_blank">
+          Narrative-based intervention for word-finding difficulties: a case study
+        </a>
+      </li>
+      <li><a href="#">PDF 2</a></li>
+    </ul>
+    <div class="ontology-box" onclick="openOntologyModal()">
+      Intervention Ontology
     </div>
-    <div class="box">
-        <label for="patient">Patient:</label>
-        <select id="patient">
-            <option value="patient1">Patient 1</option>
-            <option value="patient2">Patient 2</option>
-        </select>
-        <br>
-        <label for="date">Date:</label>
-        <input type="date" id="date">
-        <br>
-        <button onclick="showProfile()">Show the Profile</button>
+  </div>
+
+  <!-- Ontology Modal -->
+  <div id="ontologyModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeOntologyModal()">&times;</span>
+      <h2>Intervention Ontology</h2>
+      <div class="tabs">
+        <button class="tab-button" onclick="openTab('pdf1Tab')">Intervention from PDF1</button>
+        <button class="tab-button" onclick="openTab('blankTab')">Blank Graph</button>
+      </div>
+
+      <div id="pdf1Tab" class="tab-content">
+        <p class="source-link">
+          <a href="Narrative-based intervention for word-finding difficulties.pdf" target="_blank">Source</a>
+        </p>
+        <button id="viewAllBtn" class="view-all-btn">View All Info</button>
+        <div id="interventionButtons"></div>
+        <svg width="500" height="400"></svg>
+      </div>
+
+      <div id="blankTab" class="tab-content" style="display: none;">
+        <p class="source-link">
+          <a href="#">Source</a>
+        </p>
+        <svg width="500" height="400"></svg>
+      </div>
     </div>
-    
-    <div class="box" id="profileBox">
-        <p id="profileInfo">Profile:<br> Age:<br> Gender:<br> Disorder:<br> Weakness:<br> Strength:<br> Target:</p>
-        <button onclick="recommendIntervention()">Recommend Intervention</button>
+  </div>
+
+  <!-- details Modal -->
+  <div id="detailsModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeDetailsModal()">&times;</span>
+      <div id="detailsContent"></div>
     </div>
-    
-    <div class="box">
-        <p>Intervention Info (Reference)</p>
-        <p>List of references:</p>
-        <ul id="referenceList">
-            <li>1: <a href="#">pdf</a></li>
-            <li>2: <a href="#">pdf</a></li>
-        </ul>
-        <div class="ontology-box" onclick="openOntologyModal()">
-            Intervention Ontology (Graph Structure)
-        </div>
-    </div>
-    
-    <div id="ontologyModal" class="modal">
-        <div class="modal-content">
-            <span class="close" onclick="closeOntologyModal()">&times;</span>
-            <h2>Intervention Ontology (Graph Structure)</h2>
-            <svg width="500" height="400"></svg>
-        </div>
-    </div>
-    
-    <script src="https://d3js.org/d3.v6.min.js"></script>
-    <script src="script.js"></script>
+  </div>
+
+  <!-- tooltip -->
+  <div id="tooltip" class="tooltip" style="display: none;"></div>
+
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
